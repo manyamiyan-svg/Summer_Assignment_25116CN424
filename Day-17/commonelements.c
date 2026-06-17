@@ -39,5 +39,3 @@ int main() {
     return 0;
 }
 
-You replied to Joru ka gulaam🤪💓💋
-mujhe toh lagra hai ye ladna hi hota hai
