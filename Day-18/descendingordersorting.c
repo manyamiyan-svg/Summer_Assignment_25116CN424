@@ -1,4 +1,4 @@
-<stdio.h>
+#include<stdio.h>
 int main() {
     int n,i,j,t,max,arr[50];
     printf("Enter size of array:\n");
