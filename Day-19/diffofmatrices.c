@@ -22,7 +22,7 @@ int main() {
         for (j = 0; j < c2; j++)
             scanf("%d", &m2[i][j]);
     for (i = 0; i < r1; i++)
-    or (j = 0; j < c1; j++)
+    for (j = 0; j < c1; j++)
             dif[i][j] = m1[i][j] - m2[i][j];
     printf("Sum of matrices is:\n");
     for (i = 0; i < r1; i++) {
